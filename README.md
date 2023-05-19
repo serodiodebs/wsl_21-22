@@ -12,9 +12,9 @@ Depois de passar um bom tempo pensando e enrolando (sim, enrolei demais :stuck_o
 
 Objetivo
 ---
-Meu principal objetivo foi de tentar ver através dos dados quais as informações sobre a liga, jogadoras e times eu conseguia visualizar. Claro que tem pouca coisa e sem dúvida eu conseguiria ir mais a fundo mas como um start o resultado foi bom.
-Meu segundo objetivo aqui é aprimorar meu conhecimento nas ferramentas que uso no meu dia a dia (Python, SQL, Tableau, Power BI) de forma relaxada, sem pressão e claro usando as bases que eu me sentir confortável de utilizar.
-Com o tempo quero poder ter mais dashboards nessa categoria "Esportes" de forma que acrecente de alguma forma valor tanto para mim quanto para qualquer um que esteja vendo tanto os códigos quanto os dashboards.
+Meu principal objetivo foi de tentar descobrir quais informações sobre os times, jogadoras e liga eu conseguiria traduzir através dos dados. Claro que tem pouca coisa e sem dúvida eu conseguiria ir mais a fundo mas como um start o resultado foi bom.
+Meu segundo objetivo aqui é aprimorar meu conhecimento nas ferramentas que uso no meu dia a dia (Python, SQL, Tableau, Power BI) de forma tranquila, sem pressão e claro usando as bases que eu me sentir confortável em utilizar.
+Com o tempo quero poder ter mais dashboards nessa categoria "Esportes" de forma que agregue de alguma forma valor tanto para mim quanto para qualquer um que esteja vendo tanto os códigos quanto os dashboards.
 
 Pré-requisito
 ---
@@ -24,7 +24,7 @@ Pra poder rodar o código em python, é só executar o arquivo `requirements.txt
 pip install -r requirements.txt
 ```
 
-Para visualizar o Dashboard no tableau, basta acessar o link que disponibilizei abaixo. E caso você queira fazer o download do dashboard para poder ver como os cálculos foram criados e o dashboard montado é só entrar em contato comigo que eu libero o download direto lá do Tableau Public. :thumbsup:
+Para visualizar o Dashboard, basta acessar o link que disponibilizei abaixo. E caso você queira fazer o download do dashboard para poder ver como os cálculos foram criados e o dashboard montado é só entrar em contato comigo que eu libero o download direto lá do Tableau Public. :thumbsup:
 
 Resultado Final
 ---
@@ -37,7 +37,7 @@ Considerações e atribuições
 
 Bom, por último e não menos importante quero deixar umas observações aqui.
 A análise que eu fiz foi baseada nos dados que obti e questões que eu mesma pensei em responder. Daqui para frente vou fazer outros dashboards e fazer outros tipos de análises também e acredito que com o tempo vou adquirir mais conhecimento tanto nas ferramentas (meu foco maior), quanto no quesito "Dados de futebol".
-Outro ponto também que quero deixar bem explicito é que meu foco sempre vai ser analisar dados voltados para o futebol feminino(claro, quando o assunto for futebol rs), já que o que mais conseguimos encontrar na internet e com uma certa facilidade é sobre o futebol masculino.
+Outro ponto também que quero deixar bem explicito é que meu foco sempre vai ser analisar dados voltados para o futebol feminino(claro, quando o assunto for futebol rs), já que o que mais conseguimos encontrar na internet e com uma certa facilidade é sobre o futebol masculino. 
 
 Acredito que é isso aí meu povo!
 Estou aberta a qualquer tipo de crítica e sugestões sobre essa análise e sobre outras que posso criar no futuro. Se tiverem dicas do que ser respondido e até mesmo de um layout legal de dashboard, só entrarem em contato comigo que vou adorar!
