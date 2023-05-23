@@ -28,11 +28,12 @@ Para visualizar o Dashboard, basta acessar o link que disponibilizei abaixo. E c
 
 Resultado Final
 ---
-Depois de ter finalmente terminado o tratamento dos dados, deixo com vocês o link para o dashboard final:
+Depois de ter finalmente terminado o tratamento dos dados, deixo com vocês o Dashboard:
 
-[Barclays dashboard](wsl_dashboard.png)
+<iframe src="https://public.tableau.com/views/wsl_21-22/Dashboard1?:showVizHome=no&:embed=true" width="1500" height="800"> </iframe>
 
-Link: [WSL Season 21/22](https://public.tableau.com/views/wsl_21-22/Dashboard1?:language=pt-BR&:display_count=n&:origin=viz_share_link)
+E o link de acesso direto no Tableau Public: [WSL Season 21/22](https://public.tableau.com/views/wsl_21-22/Dashboard1?:language=pt-BR&:display_count=n&:origin=viz_share_link)
+
 
 Considerações e atribuições
 ---
