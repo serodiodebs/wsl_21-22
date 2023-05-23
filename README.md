@@ -30,6 +30,8 @@ Resultado Final
 ---
 Depois de ter finalmente terminado o tratamento dos dados, deixo com vocês o link para o dashboard final:
 
+[Barclays dashboard](wsl_dashboard.png)
+
 Link: [WSL Season 21/22](https://public.tableau.com/views/wsl_21-22/Dashboard1?:language=pt-BR&:display_count=n&:origin=viz_share_link)
 
 Considerações e atribuições
